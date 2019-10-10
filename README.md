@@ -1,5 +1,3 @@
-**# MiniProjects**
-
 ## Springboard Mini-Projects
 
   Data Wrangling Projects
