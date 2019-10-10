@@ -1,5 +1,5 @@
-# Springboard-s-Mini-Projects
-Mini Projects completed as part of the curriculum
+MiniProjects
+
 Springboard Mini-Projects
 
     Data Wrangling Projects
@@ -20,4 +20,3 @@ Springboard Mini-Projects
     Take Home Challenges
         Ultimate - Ride Sharing App Driver Retention
         Relax - Product Adoption Rate
-
