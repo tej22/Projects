@@ -1,20 +1,24 @@
 ## Springboard Mini-Projects
 
-  Data Wrangling Projects
-        JSON - World Bank Data Set
-        SQL
-        Quandl API Data
-  EDA Projects
-        Human Body Temperature Measurements
-        Racial Discrimination for Job Callbacks
-        Hospital Readmission Policy on Small vs Large Hospitals
-  Machine Learning
-        Linear Regression - Boston Housing Data
-        Logistic Regression
-        Naive Bayes - Rotten Tomatoes
-        Clustering - Wine Data
-  Spark
-        Map Reduce with Spark
-  Take Home Challenges
-        Ultimate - Ride Sharing App Driver Retention
-        Relax - Product Adoption Rate
+  _ Data Wrangling Projects
+    `_ JSON - World Bank Data Set
+    `_ SQL
+    `_ Quandl API Data
+    
+  _ EDA Projects
+    `_ Human Body Temperature Measurements
+    `_ Racial Discrimination for Job Callbacks
+    `_ Hospital Readmission Policy on Small vs Large Hospitals
+  
+  _ Machine Learning
+    `_ Linear Regression - Boston Housing Data
+    `_ Logistic Regression
+    `_ Naive Bayes - Rotten Tomatoes
+    `_ Clustering - Wine Data
+  
+  _ Spark
+    `_ Map Reduce with Spark
+  
+  _ Take Home Challenges
+    `_ Ultimate - Ride Sharing App Driver Retention
+    `_ Relax - Product Adoption Rate
