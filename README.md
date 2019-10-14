@@ -5,18 +5,19 @@
     - SQL
     - Quandl API Data
     
-  - EDA Projects
-    - Human Body Temperature Measurements
-    - Examining Racial Discrimination in the US Job markets
-    - Hospital Readmission Policy on Small vs Large Hospitals (Analysis & Recommendations)
+  - Statistical Methods for Data Analysis
+    - Frequentist inference
+    - Bootstrap inference
+    - Bayesian inference 
   
   - Machine Learning
     - Linear Regression - Predicting House Prices using Boston Housing Data
-    - Logistic Regression - Predicting Gender
-    - Naive Bayes - Movie Review Sentiment Analysis using Rotten Tomatoes
-    - Clustering - Wine Data Customer Segmentation Using Unsupervised Learning
+    - Heights and weights using Logistic Regression
+    - Predictive movie ratings from reviews using naive bayes
+    - Customer segmentation using clustering
   
-  - Spark
+  - Spark & PySpark
+    - Spark Mini-Project: Databricks edition 
     - Map Reduce with Spark
   
   - Take Home Challenges
