@@ -1,4 +1,4 @@
-## Springboard Mini-Projects
+## Projects
 
   - Data Wrangling Projects
     - JSON - World Bank Data Set
