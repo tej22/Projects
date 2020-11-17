@@ -1,4 +1,4 @@
-## Projects
+## Projects Using Machin Learning and Data-Science
 
   - Data Wrangling Projects
     - JSON - World Bank Data Set
